@@ -1,0 +1,12 @@
+.tancat{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    margin-right:70%;
+    font-size:40px;
+    margin-left:10%;
+}
+summary {
+    list-style: none;   
+     margin-left:10%;
+}

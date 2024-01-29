@@ -1,0 +1,38 @@
+.tot{
+    margin-right:70%;
+    margin-left:10%;
+    border-style:solid;
+    border-color:grey;
+    border-width:2px;
+}
+.titol{
+    margin-left: 20%;
+    font-size:25px;
+    font-weight:bold;
+}
+.text1{
+    margin-left: 20%;
+    margin-right:30%;
+}
+.preu{
+    margin-left:20%;
+    font-weight:bold;
+    font-size:30px;
+}
+.greentext{
+    margin-left:19%;
+    color:#0d636f;
+}
+.boto{
+    background-color:#0d636f;
+    color:white;
+    margin-left:19%;
+    border-style:solid;
+    padding:10px 40px;
+    font-weight:bold;
+}
+.contingut{
+    margin-left:20%;
+    color:#00000058;
+    
+}

@@ -1,0 +1,58 @@
+.boto{
+    padding:15px; 
+    min-width: 15rem;
+    max-width:30rem;
+    background-color:green;
+    text-align: center;
+    color:black;
+    border-radius:10px;
+    margin-left:10%;
+    border-style:solid;
+
+}
+.pfpesquerra{
+    aspect-ratio: 1/1; 
+    border-radius:30%;
+    float:left;
+    object-fit:cover;
+    object-position:left;
+   
+}
+.botodreta{
+    padding:15px; 
+    min-width: 15rem;
+    max-width:30rem;
+    background-color:green;
+    text-align: right;
+    color:black;
+    border-radius:10px;
+    margin-left:10%;
+    border-style:solid;
+}
+.time{
+    color:#252424;
+    float:right;
+}
+.botodr{
+    padding:15px; 
+    min-width: 15rem;
+    max-width:30rem;
+    background-color:green;
+    text-align: center;
+    color:black;
+    border-radius:10px;
+    margin-left:30%;
+    margin-right:10%;
+    border-style:solid;
+}
+.pfpdreta{
+    aspect-ratio:1/1;
+    border-radius:30%;
+    float:right;
+    object-fit:cover;
+    object-position:right;
+}
+.time2{
+    color:#252424;
+    float:left;
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="../estils/estils.css">
-    <title>wireframe</title>
+    <title>Formulari</title>
 </head>
 <body>
     <div class="header">
@@ -14,15 +14,36 @@
                     <th class="logo"><img src="../imatges/institut-caparrella-logoweb-180725-med-200325152134.png"></th>
                     <td class="apartats"><a href="../html.html">Inici</a></td>
                     <td class="apartats"><a href="../activitats/activitats.html">Activitats</a></td>
+                    <td class="apartats"><a href="esbos.html">wireframes</a></td>
                     <td class="apartats"><a href="curriculum.html">curriculum</a></td>
-                    <td class="apartats"><a href="formulari.html">formulari</a></td>
                     
                 </tr>
             </thead>
         </table>
         </div>
-        <h1 class="wireframe2">Wireframe:</h1>
-        <div class="wireframe"><img src="../imatges/esbos.png"></div>
+  
+        <div class="form">
+            <form>
+              <label for="nomusuari">Nom d'usuari</label>
+              <input type="text" id="nomusuari" name="nomusuari" placeholder="El teu nom">
+          
+              <label for="noms">Nom i cognoms</label>
+              <input type="text" id="noms" name="noms" placeholder="El teu nom i cognoms">
+          
+              <label for="assumpte">Assumpte del missatge</label>
+              <select id="assumpre" name="assumpte">
+                <option value="Averia">Averia</option>
+                <option value="Pregunta">Pregunta</option>
+                <option value="Altres">Altres</option>
+              </select>
+          
+              <label for="questio">Questio</label>
+              <textarea id="questio" name="questio" placeholder="Escriu aqui la rao del seu missatge..." style="height:200px"></textarea>
+          
+              <input type="submit" value="Submit">
+            </form>
+          </div>
+          
         <div class="footer">
             <table class="footer1">
                 <tr>
