@@ -1,0 +1,13 @@
+
+li.hola{
+    float: left;
+}
+ul{
+    list-style-type:none;
+    display: inline-block;
+
+}
+.botons{
+    background-color: #f1d418;
+    padding:30px 30px;
+}

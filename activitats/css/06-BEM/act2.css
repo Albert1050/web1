@@ -1,0 +1,10 @@
+.comentaris{
+    width:25%;
+    height:100px;
+    padding:12px 20px;
+    box-sizing:border-box;
+    border:2px solid #000000;
+    border-radius:4px;
+    background-color:white;
+    resize:none;
+}

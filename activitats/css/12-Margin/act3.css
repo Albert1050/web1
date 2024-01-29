@@ -1,0 +1,78 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-color: rgb(204, 73, 33);
+  }
+  
+  .background {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hola.png");
+    height: 65%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .imgtxt {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+.boto{
+    background-color:rgb(204, 73, 33);
+    border-radius:50px;
+    padding: 12px 25px;
+    border-style:solid;
+    border-width: 0px;
+    color:white;
+
+}
+a{
+    text-decoration:none;
+    color:white;
+    font-weight: bold;
+}
+.titol1{
+      text-align:center;
+      padding: left 20%;
+      
+      color: white;
+      font-size:30px;
+}
+.boto2{
+    background-color:#ffffff;
+    border-radius:50px;
+    padding: 12px 25px;
+    border-style:solid;
+    border-width: 0px;
+    color:black;
+    margin-left: 45%;
+    font-weight: bold;
+}
+.text2{
+      text-align: center;
+      
+      margin-right: 27%;
+      margin-left: 27%;
+    
+      color: white;
+}
+.decor1{
+    background-color: rgb(204, 73, 33);
+    padding: 2px 2px;
+    max-width: 50px;
+    margin-left: 47%;
+    color:rgb(204, 73, 33);
+}
+.decor2{
+    background-color: rgb(255,255,255);
+    padding: 2px 2px;
+    max-width: 50px;
+    margin-left: 48%;
+    color:rgb(255,255,255);
+}
