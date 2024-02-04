@@ -1,0 +1,33 @@
+.form {
+    font-weight:bold;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  input[type=submit]:hover {
+    background-color: #0f7c99;
+   
+  }
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid ;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    
+  }
+  
+  input[type=submit] {
+    background-color: #0f7c99   ;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight:bold;
+    transition-delay:0s;
+    transition-timing-function: ease;
+    transition-duration:5s;
+  }
