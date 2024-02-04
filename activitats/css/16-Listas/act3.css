@@ -1,0 +1,14 @@
+.taula{
+    font-size:50px;
+   
+    list-style-type: none;
+    margin-right:80%;
+    text-align:center;
+}
+.llista{
+    border-color:black;
+    border-style:solid; 
+    background-color:#0f7c99;
+    color:white;
+
+}

@@ -1,0 +1,7 @@
+.imatge:hover {
+
+    transform: rotateY(45deg);
+}
+.imatge{
+    perspective:10px;
+}
