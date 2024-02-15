@@ -132,3 +132,7 @@ input[type=text], select, textarea {
   .wireframe2{
     margin-left:16%;
   }
+  .rss{
+    font-size:50px;
+    font-weight:bold;
+  }
