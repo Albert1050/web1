@@ -2,9 +2,11 @@
 <rss version="2.0">
 
 <channel>
+<item>
   <title>Cisco news</title>
   <link>https://elpais.com/economia/2024-02-15/cisco-anuncia-el-despido-de-unos-4000-empleados-el-5-de-la-plantilla.html</link>
   <description>Cisco anuncia el despido de unos 4000 empleados.</description>
+  </item>
   <item>
     <title>Periodista se liga a una IA</title>
     <link>https://www.abc.es/tecnologia/informatica/soluciones/periodista-abc-liga-ia-quiero-hacerte-feliz-20230917172511-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2Finformatica%2F</link>
