@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-<channel>
-<enty>
-  <title>Cisco news</title>
-  <link>https://elpais.com/economia/2024-02-15/cisco-anuncia-el-despido-de-unos-4000-empleados-el-5-de-la-plantilla.html</link>
-  <summary>Cisco anuncia el despido de unos 4000 empleados.</summary>
-</enty>
-  <enty>
-    <title>Periodista se liga a una IA</title>
-    <link>https://www.abc.es/tecnologia/informatica/soluciones/periodista-abc-liga-ia-quiero-hacerte-feliz-20230917172511-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2Finformatica%2F</link>
-    <summary>Un periodista de ABC se liga a una IA: «Quiero hacerte más feliz que una mujer real»</summary>
-  </enty>
-  <enty>
-    <title>ChatGPT ya sabe hablar e interpretar tus fotografías</title>
-    <link>https://www.abc.es/tecnologia/informatica/soluciones/chatgpt-sabe-hablar-interpretar-tus-fotografias-20230925170411-nt.html</link>
-    <summary>OpenAI ha anunciado la llegada de dos funcionalidades muy interesantes que estarán disponibles en las próximas semanas para los usuarios y empresas de pago</summary>
-  </enty>
-</channel>
-
+  <channel>
+    <entry>
+      <title>Cisco news</title>
+      <link>https://elpais.com/economia/2024-02-15/cisco-anuncia-el-despido-de-unos-4000-empleados-el-5-de-la-plantilla.html</link>
+      <summary>Cisco anuncia el despido de unos 4000 empleados.</summary>
+    </entry>
+    <entry>
+      <title>Periodista se liga a una IA</title>
+      <link>https://www.abc.es/tecnologia/informatica/soluciones/periodista-abc-liga-ia-quiero-hacerte-feliz-20230917172511-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Ftecnologia%2Finformatica%2F</link>
+      <summary>Un periodista de ABC se liga a una IA: «Quiero hacerte más feliz que una mujer real»</summary>
+    </entry>
+    <entry>
+      <title>ChatGPT ya sabe hablar e interpretar tus fotografías</title>
+      <link>https://www.abc.es/tecnologia/informatica/soluciones/chatgpt-sabe-hablar-interpretar-tus-fotografias-20230925170411-nt.html</link>
+      <summary>OpenAI ha anunciado la llegada de dos funcionalidades muy interesantes que estarán disponibles en las próximas semanas para los usuarios y empresas de pago</summary>
+    </entry>
+  </channel>
 </feed>
